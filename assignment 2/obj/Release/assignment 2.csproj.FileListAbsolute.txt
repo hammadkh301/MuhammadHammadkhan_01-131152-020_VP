@@ -1,0 +1,19 @@
+C:\Users\hamma\documents\visual studio 2013\Projects\assignment 2\assignment 2\bin\Release\assignment 2.exe.config
+C:\Users\hamma\documents\visual studio 2013\Projects\assignment 2\assignment 2\bin\Release\assignment 2.exe
+C:\Users\hamma\documents\visual studio 2013\Projects\assignment 2\assignment 2\bin\Release\assignment 2.pdb
+C:\Users\hamma\documents\visual studio 2013\Projects\assignment 2\assignment 2\obj\Release\assignment_2.Add_Student.resources
+C:\Users\hamma\documents\visual studio 2013\Projects\assignment 2\assignment 2\obj\Release\assignment_2.deleteStudent.resources
+C:\Users\hamma\documents\visual studio 2013\Projects\assignment 2\assignment 2\obj\Release\assignment_2.Form1.resources
+C:\Users\hamma\documents\visual studio 2013\Projects\assignment 2\assignment 2\obj\Release\assignment_2.Properties.Resources.resources
+C:\Users\hamma\documents\visual studio 2013\Projects\assignment 2\assignment 2\obj\Release\assignment_2.Search.resources
+C:\Users\hamma\documents\visual studio 2013\Projects\assignment 2\assignment 2\obj\Release\assignment_2.SearchById.resources
+C:\Users\hamma\documents\visual studio 2013\Projects\assignment 2\assignment 2\obj\Release\assignment_2.SearchByName.resources
+C:\Users\hamma\documents\visual studio 2013\Projects\assignment 2\assignment 2\obj\Release\assignment 2.csproj.GenerateResource.Cache
+C:\Users\hamma\documents\visual studio 2013\Projects\assignment 2\assignment 2\obj\Release\assignment 2.exe
+C:\Users\hamma\documents\visual studio 2013\Projects\assignment 2\assignment 2\obj\Release\assignment 2.pdb
+C:\Users\hamma\documents\visual studio 2013\Projects\assignment 2\assignment 2\obj\Release\assignment 2.csprojResolveAssemblyReference.cache
+C:\Users\hamma\documents\visual studio 2013\Projects\assignment 2\assignment 2\obj\Release\assignment_2.MarkAttendence.resources
+C:\Users\hamma\documents\visual studio 2013\Projects\assignment 2\assignment 2\obj\Release\assignment_2.viewAttendance.resources
+E:\assignment 2\assignment 2\bin\Release\assignment 2.exe.config
+E:\assignment 2\assignment 2\obj\Release\assignment 2.exe
+E:\assignment 2\assignment 2\obj\Release\assignment 2.pdb
